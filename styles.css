@@ -1,0 +1,32 @@
+#mainDiv {
+    border: solid 15px black;
+    border-radius: 20px;
+    background-color: gray;
+    overflow: auto;
+    text-align: center;
+}
+
+#mainDiv h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+#mainDiv h3 {
+    color: blue;
+    
+}
+
+#mainDiv p {
+    color: red;
+    
+}
+
+#mainDiv .truthLieDiv {
+    border: solid 10px blue;
+    border-radius: 20px;
+    background-color: lightgray;
+    margin: 10px 10px 10px 10px;
+    text-align: center;    
+    width: 400px;
+    display: inline-block;
+}
